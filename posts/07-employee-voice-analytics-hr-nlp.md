@@ -4,7 +4,7 @@ subtitle: "How employee-voice-analytics combines multi-aspect sentiment, a 28-em
 date: 2026-11-01
 author: Royce Lam
 tags: nlp, hr-analytics, sentiment-analysis, bertopic, keybert, goemotions, privacy, databricks, python
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/employee-voice-analytics/main/docs/assets/hero.jpg
 hero_file: assets/eva-hero.jpg
 hero_caption: Feedback streams resolving into a flight-risk gauge and topic clusters.

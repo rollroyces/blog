@@ -4,7 +4,7 @@ subtitle: "What I learned formalizing 100+ lemmas on the way to a regularity pro
 date: 2026-10-15
 author: Royce Lam
 tags: formal-verification, lean-4, mathlib, fluid-dynamics, partial-differential-equations, navier-stokes, theorem-proving
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/ns-blowup/main/docs/assets/hero.jpg
 hero_file: assets/ns-blowup-hero.jpg
 hero_caption: Flow streamlines and a proof dependency graph — the two halves of the ns-blowup formalization.

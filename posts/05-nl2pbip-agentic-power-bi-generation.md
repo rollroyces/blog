@@ -4,7 +4,7 @@ subtitle: "How nl2pbip builds a TMDL semantic model, a PBIR report surface, and 
 date: 2026-11-01
 author: Royce Lam
 tags: applied-ai, powerbi, power-bi, llm, agentic-ai, data-engineering, business-intelligence, generative-ai
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/nl2pbip/main/assets/architecture.png
 hero_file: assets/nl2pbip-architecture.png
 hero_caption: The nl2pbip architecture: LLM planner, TMDL writer, PBIR layout engine, and the .pbit exporter.

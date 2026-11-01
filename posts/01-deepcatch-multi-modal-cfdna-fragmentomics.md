@@ -4,7 +4,7 @@ subtitle: "How performance-weighted fusion of fragment-size, methylation, and se
 date: 2026-10-15
 author: Royce Lam
 tags: bioinformatics, cancer-screening, cfDNA, fragmentomics, methylation, machine-learning, multi-modal
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/deepcatch/main/docs/figures/fig1_pooled_roc.png
 hero_file: assets/deepcatch-roc.png
 hero_caption: Pooled ROC across cancer types on the deepcatch validation cohort.

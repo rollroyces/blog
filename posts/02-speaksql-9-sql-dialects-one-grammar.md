@@ -4,7 +4,7 @@ subtitle: "Designing a multi-dialect NL→SQL transpiler that targets Postgres, 
 date: 2026-10-15
 author: Royce Lam
 tags: nlp, sql, transpiler, engineering, language-tooling, llm, applied-ai
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/speaksql/main/docs/join_graph_example/join_graph.svg
 hero_file: assets/speaksql-join-graph.svg
 hero_caption: Auto-discovered join graph from a 6-table schema — the foundation speaksql builds its SQL output on.

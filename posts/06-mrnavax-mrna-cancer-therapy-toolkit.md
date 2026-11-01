@@ -4,7 +4,7 @@ subtitle: "mrnavax turns a scattered set of published papers into CLI subcommand
 date: 2026-11-01
 author: Royce Lam
 tags: bioinformatics, mrna, codon-optimization, neoantigen, foundation-models, llm, clinical-trials, python
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/mrnavax/main/docs/assets/pipeline.svg
 hero_file: assets/mrnavax-pipeline.svg
 hero_caption: The mrnavax pipeline — codon → variant → neoantigen → trial → LNP → manufactured mRNA.

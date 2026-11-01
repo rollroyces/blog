@@ -4,7 +4,7 @@ subtitle: "What it actually takes to ship AI document processing that someone ca
 date: 2026-11-01
 author: Royce Lam
 tags: applied-ai, document-ai, idp, llm, ocr, fastapi, pydantic, production, engineering
-target: Medium / dev.to (cross-post)
+target: Medium / dev.to (intended venue - no account live yet)
 hero_image: https://raw.githubusercontent.com/rollroyces/py-idp/main/docs/assets/demo-hitl.svg
 hero_file: assets/py-idp-hitl.svg
 hero_caption: The py-idp HITL review console — queued documents, extracted fields, and inline correction.
