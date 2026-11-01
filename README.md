@@ -2,7 +2,7 @@
 
 Technical writing on **ML for biology**, **applied AI tooling**, and **formal methods** — by [Royce Lam](https://github.com/rollroyces).
 
-Every post is a draft here first. The source of truth for the published version is Medium / dev.to; this repo is where the drafts are written, revised, and version-controlled.
+Every post is drafted here first — this repo is where they are written, revised, and version-controlled. Published versions go out to Medium and dev.to once those accounts are live; until then this repo is the only canonical home.
 
 ## Posts
 
@@ -49,6 +49,8 @@ Each post's front matter carries:
 | `repo` | The GitHub repo the post is about |
 
 ## Publishing
+
+These posts are not published yet — no Medium or dev.to account is currently active, so nothing here links to a platform that doesn't exist. When an account is set up, publish as follows.
 
 Both Medium and dev.to accept the markdown body directly.
 
